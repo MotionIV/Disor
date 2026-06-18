@@ -1,6 +1,3 @@
-# Disor
-Discord AI-Based Bot
-
 # Disor 1
 
 أول إصدار من بوت Discord بيفهم كلامك العادي وينفذه باستخدام AI.
