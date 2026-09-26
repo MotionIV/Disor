@@ -32,7 +32,7 @@
 - Python
 - discord.py
 - Groq API (meta-llama/llama-4-scout-17b-16e-instruct)
-
+**الموديل الي في البوت اتوقف او انحذف من Groq! تقدر تشوف ايه الموديلات الي شغاله من Groq Playground**
 ## المطور
 
 MotionIV
